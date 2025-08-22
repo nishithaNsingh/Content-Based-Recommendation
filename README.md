@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🛒 Grocery Recommendation System  
 
 A sophisticated grocery recommendation system leveraging real **Instacart Market Basket Analysis** data.  
@@ -277,9 +277,5 @@ if __name__ == "__main__":
 This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for details.
 
-```
 
----
 
-Would you like me to also create a **diagram/flowchart** (system architecture + recommendation pipeline) in markdown/mermaid format for this README? It would make it more visually appealing.
-```
