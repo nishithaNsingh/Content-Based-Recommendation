@@ -41,7 +41,7 @@ The system uses the **Instacart Market Basket Analysis dataset**, containing:
 
 ### Step 1: Clone the Repository  
 ```bash
-git clone https://github.com/your-username/grocery-recommendation-system.git
+git clone git@github.com:nishithaNsingh/Content-Based-Recommendation.git
 cd grocery-recommendation-system
 ````
 
