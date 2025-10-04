@@ -90,7 +90,6 @@ streamlit run main.py
 
 * **Authentic Patterns** – reflects real customer shopping behavior.
 * **Large Scale** – processes 25,000+ real transactions (sampled for performance).
-* **Resume Impact** – demonstrates experience with real e-commerce data.
 * **Business Relevance** – captures actual grocery shopping patterns.
 
 ### 📊 Dataset Information
@@ -150,22 +149,6 @@ streamlit run main.py
 * Shopping pattern insights.
 
 ---
-
-## 📈 Resume-Worthy Features
-
-### Technical Achievements
-
-* Processed **3M+ transactions** from real e-commerce data.
-* Implemented **hybrid recommendation engine** with 85%+ accuracy.
-* Optimized Market Basket Analysis for **sparse real-world data**.
-* Built scalable system handling **50K+ products and transactions**.
-
-### Business Impact
-
-* Identified **cross-selling opportunities** from real customer behavior.
-* Analyzed shopping patterns for **inventory optimization**.
-* Created **explainable AI system** for business stakeholders.
-* Delivered **data-driven insights** from real grocery retail data.
 
 ---
 
